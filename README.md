@@ -55,7 +55,7 @@ A-->S9
 ### Files
 
 - [summary.md](summary.md): Summarizing the assigned steps
-- [McDonalds-Case-Study.ipynb](McDonalds-Case-Study.ipynb): Python code practice for assigned steps
+- [McDonalds-Case-Study.ipynb](McDonalds-Case-Study.ipynb): Python code practice of entire case study
 
 ### Schedule
 
