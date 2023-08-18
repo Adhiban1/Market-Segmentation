@@ -62,7 +62,8 @@ A-->S9
 |Date|What to do|
 |:---:|---|
 |Aug 15 - Aug 19|Summarizing the steps|
-|Aug 19|Upload Summary in GitHub and Meeting|
+|Aug 19|Upload Summary in GitHub|
+|Aug 20|Meeting|
 |Aug 20 - Aug 23|McDonalds Case Study|
 |Aug23|Upload McDonalds Case Study in GitHub and Meeting|
 |Aug 23 - Aug 25|I will make submission report from our summaries and codes|
