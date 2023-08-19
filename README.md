@@ -43,9 +43,9 @@ S7[7. Describing Segments]
 S8[8. Selecting the Target Segments]
 S9[9. Customising the Marketing Mix]
 
-S-->S5
+S--7.4 - 7.6-->S5
 A-->S4
-K-->S5
+K--7.1 - 7.3-->S5
 Y-->S6
 S-->S7
 M-->S8
