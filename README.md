@@ -2,9 +2,9 @@
 
 ## Team members
 - Adhiban Siddarth (Me) [Team Lead]
-- Karakavalasa venkata pranay 
+- Karakavalasa venkata pranay ([Project link](https://github.com/Venkatapranay/Feynn_labs))
 - Malay Vyas ([Project link](https://github.com/MalayVyas/Feynn_Labs))
-- Shreyash Banduji Chacharkar
+- Shreyash Banduji Chacharkar ([Project link](https://github.com/ShreyashChacharkar/Market_segmentation))
 - Yash Mayur ([Project link](https://github.com/ysmayur1992/Feynn_Labs_Project2))
 
 ## Study
