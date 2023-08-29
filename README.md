@@ -1,18 +1,25 @@
 # Market Segmentation Analysis - [Feynn Labs](https://www.linkedin.com/company/feynn-labs/?originalSubdomain=in) [Internship](https://feynnlabs.com/internships/)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-red?style=for-the-badge)
+
 ## Team members
-- Adhiban Siddarth (Me) [Team Lead]
-- Karakavalasa venkata pranay ([Project link](https://github.com/Venkatapranay/Feynn_labs))
-- Malay Vyas ([Project link](https://github.com/MalayVyas/Feynn_Labs))
-- Shreyash Banduji Chacharkar ([Project link](https://github.com/ShreyashChacharkar/Market_segmentation))
-- Yash Mayur ([Project link](https://github.com/ysmayur1992/Feynn_Labs_Project2))
+|Name|GitHub repo link|
+|--|--|
+|Adhiban Siddarth ![Me](https://img.shields.io/badge/Me-green) ![Team Lead](https://img.shields.io/badge/Team_Lead-red) | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)](https://github.com/Adhiban1/Market-Segmentation-Analysis) |
+|Karakavalasa venkata pranay | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)](https://github.com/Venkatapranay/Feynn_labs) |
+|Malay Vyas | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)](https://github.com/MalayVyas/Feynn_Labs) |
+|Shreyash Banduji Chacharkar | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)](https://github.com/ShreyashChacharkar/Market_segmentation) |
+|Yash Mayur | [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?logo=github&logoColor=white)](https://github.com/ysmayur1992/Feynn_Labs_Project2) |
 
 ## Study
 
 10 days study period (Aug 15 - Aug 24)
 
-> [McDonalds dataset](https://homepage.boku.ac.at/leisch/MSA/datasets/mcdonalds.csv)<br>
-> [Market Segmentation Analysis PDF](https://drive.google.com/file/d/1SIEt4Bp_4R9dcs4saU1DIui1IKWQIW38/view)
+> [![McDonalds dataset link](https://img.shields.io/badge/McDonalds_dataset-link-blue)](https://homepage.boku.ac.at/leisch/MSA/datasets/mcdonalds.csv)<br>
+> [![Market Segmentation Analysis PDF link](https://img.shields.io/badge/Market_Segmentation_Analysis_PDF-link-blue)](https://drive.google.com/file/d/1SIEt4Bp_4R9dcs4saU1DIui1IKWQIW38/view)
 
 ### Market Segmentation steps
 
@@ -54,8 +61,8 @@ A-->S9
 
 ### Files
 
-- [summary.md](summary.md): Summarizing the assigned steps
-- [McDonalds-Case-Study.ipynb](McDonalds-Case-Study.ipynb): Python code practice of entire case study
+- Summarizing the assigned steps [![summary.md](https://img.shields.io/badge/summary-link-blue?logo=markdown)](summary.md)
+- Python code practice of entire case study [![McDonalds-Case-Study.ipynb](https://img.shields.io/badge/McDonalds--Case--Study-link-blue?logo=jupyter)](McDonalds-Case-Study.ipynb)
 
 ### Schedule
 
@@ -63,7 +70,6 @@ A-->S9
 |:---:|---|
 |Aug 15 - Aug 19|Summarizing the steps|
 |Aug 19|Upload Summary in GitHub|
-|Aug 21|Meeting|
 |Aug 20 - Aug 23|McDonalds Case Study|
 |Aug23|Upload McDonalds Case Study in GitHub and Meeting|
 |Aug 23 - Aug 25|I will make submission report from our summaries and codes|
